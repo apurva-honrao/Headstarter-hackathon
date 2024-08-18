@@ -34,7 +34,7 @@ After installing the needed dependencies, follow these steps to get started with
 1. **Clone the Repository**  
    First, clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/apurva-honrao/Headstarter-hackathon/tree/master
+   git clone https://github.com/apurva-honrao/Headstarter-hackathon.git
 
 
 2. **Navigate to the Project Directory**  
