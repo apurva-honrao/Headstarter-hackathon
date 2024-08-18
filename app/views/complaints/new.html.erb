@@ -3,7 +3,6 @@
 <head>
   <title>Complaint Form</title>
   <style>
-    <style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f4f9;
@@ -71,7 +70,6 @@
       background-color: #0056b3;
     }
   </style>
-  </style>
 </head>
 <body>
   <div class="form-container">
@@ -82,9 +80,6 @@
 
       <label for="your_complaint">Your Complaint</label>
       <%= form.text_area :complaint, placeholder: "Share your complaint here..." %>
-
-      <label for="category">Category</label>
-      <%= form.collection_select :category_id, @categories, :id, :name, prompt: 'Select a category' %>
 
       <%= form.submit "Submit Complaint" %>
     <% end %>
