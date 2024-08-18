@@ -75,6 +75,9 @@ You should be able to see the complaints stored in the database here with their 
 
 ##### Acknowledgement
 
+- [AbdelRahman Metawei](https://www.linkedin.com/in/abduhany/)
+- [Apurva Honrao](https://www.linkedin.com/in/apurva-honrao/)
+- [Joel Jose](https://www.linkedin.com/in/joel-jose-961147207/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
