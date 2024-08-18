@@ -8,6 +8,24 @@ This Ruby on Rails App reads and stores complaints submitted on the main page in
 * [![Python][Python.org]][Python-url]
 * [![PostgreSQL][PostgreSQL.org]][PostgreSQL-url]
 * [![Hugging Face API][Hugging-Face]][Hugging-Face-url]
+
+## Getting Started
+
+Here are the dependencies/ that need to be installed to run this app:
+
+1. **Ruby on Rails**   
+   [Ruby on Rails Installation Guide](https://guides.rubyonrails.org/getting_started.html#installing-rails)
+   
+2. **PostgreSQL**  
+   [PostgreSQL Installation Guide](https://www.postgresql.org/download/)
+   
+3. **Python 3**  
+   [Python Installation Guide](https://www.python.org/downloads/)
+   
+4. **Flask**  
+   ```bash
+   pip install Flask
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
