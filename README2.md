@@ -67,29 +67,11 @@ This is stored in the PostGres database which can be viewed by going back to the
 
 You should be able to see the complaints stored in the database here with their respective categories.
 
+##### Acknowledgement
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 <!--Markdown Links-->
 [Ruby-on-Rails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
