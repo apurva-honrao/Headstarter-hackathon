@@ -26,6 +26,49 @@ Here are the dependencies/ that need to be installed to run this app:
    ```bash
    pip install Flask
 
+#### Running the app
+
+After installing the needed dependencies, follow these steps to get started with the application:
+
+1. **Clone the Repository**  
+   First, clone this repository to your local machine using Git:
+   ```bash
+   git clone https://github.com/apurva-honrao/Headstarter-hackathon/tree/master
+
+
+2. **Navigate to the Project Directory**  
+   Change to the project directory:
+   ```bash
+   cd Headstarter-hackathon
+
+3. **Run the Python Script and the Ruby App**  
+   Open a terminal and navigate to the project directory:
+   ```bash
+   cd Headstarter-hackathon
+
+   
+4. Then open up a *different* shell and run the Ruby on Rails app:
+   ```bash
+   rails server
+
+5. Now that the app is running, navigate to the localhost port where it is running and enter your complaint.
+This is stored in the PostGres database which can be viewed by going back to the directory and running:
+   ```bash
+   rails console
+
+6.Now that the app is running, navigate to the localhost port where it is running and enter your complaint.
+This is stored in the PostGres database which can be viewed by going back to the directory and running:
+    ```bash
+   rails server
+
+7. Then in the console, run:
+   ```bash
+   Complaint.all
+
+You should be able to see the complaints stored in the database here with their respective categories.
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
