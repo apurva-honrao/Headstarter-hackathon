@@ -8,7 +8,8 @@ This Ruby on Rails App reads and stores complaints submitted on the main page in
 * [![Python][Python.org]][Python-url]
 * [![PostgreSQL][PostgreSQL.org]][PostgreSQL-url]
 * [![Hugging Face API][Hugging-Face]][Hugging-Face-url]
-
+* [![Pinecone][Pinecone]][Pinecone-url]
+  
 ## Getting Started
 
 Here are the dependencies/ that need to be installed to run this app:
@@ -82,6 +83,9 @@ You should be able to see the complaints stored in the database here with their 
 
 [PostgreSQL.org]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
+
+[Pinecone]: https://img.shields.io/badge/Pinecone-003F5C?style=for-the-badge&logo=pinecone&logoColor=white
+[Pinecone-url]: https://www.pinecone.io/
 
 [Hugging-Face]: https://img.shields.io/badge/Hugging_Face-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white
 [Hugging-Face-url]: https://huggingface.co/
