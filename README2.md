@@ -27,6 +27,11 @@ Here are the dependencies/ that need to be installed to run this app:
    ```bash
    pip install Flask
 
+   
+4. **Other dependencies**  
+   ```bash
+   pip install Flask
+
 #### Running the app
 
 After installing the needed dependencies, follow these steps to get started with the application:
