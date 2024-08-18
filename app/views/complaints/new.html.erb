@@ -84,7 +84,7 @@
       <%= form.text_area :complaint, placeholder: "Share your complaint here..." %>
 
       <label for="category">Category</label>
-      <%= form.select :category, options_for_select(['Billing', 'Service', 'Other']), { prompt: 'Select a category' } %>
+      <%= form.collection_select :category_id, @categories, :id, :name, prompt: 'Select a category' %>
 
       <%= form.submit "Submit Complaint" %>
     <% end %>
